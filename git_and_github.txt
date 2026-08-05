@@ -1,0 +1,3 @@
+Git is entirely separate from GitHub
+Git is pretty easy to use
+The Git reference docs are extremely helpful
