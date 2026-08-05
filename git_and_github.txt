@@ -1,0 +1,6 @@
+
+
+
+GitHub is entirely separate from Git
+Pushing and pulling to/from GitHub sounds more complex than it is
+GitHub has a desktop app
